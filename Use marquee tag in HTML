@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+      <head><title> USe of marquee tag</title></head>
+            <body>
+                   <marquee>hThis is marquee tag</marquee>
+            </body>
+
+
+</html>
